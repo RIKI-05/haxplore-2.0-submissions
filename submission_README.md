@@ -15,11 +15,14 @@ the online hackathon conducted by Codefest, the annual departmental fest of Comp
 
 #### Overview
 
-_Explain about your project, the vision behind it and how it helps enhance lifestyle, etc._
+_We built an overall food traceability system that allows customer to compare what they get and what they are served with. It will allow the user to scan the QR on the food product and the user will be directed to a web page of that product where they will see the comparision between the real information and the information given to them . The real information will be kept in the database maintained by the trustworthy third party, and user will be able to compare and decide if the product is safe for consumption or not._
 
 #### Technology used
 
-_We built an overall food traceability system that allows customer to compare what they get and what they are served with. It will allow the user to scan the QR on the food product and the user will be directed to a web page of that product where they will see the comparision between the real information and the information given to them . The real information will be kept in the database maintained by the trustworthy third party, and user will be able to compare and decide if the product is safe for consumption or not._
+_Technologies used._
+*Python( Opencv, pyzbar webbrowser libraries)
+*HTML
+*CSS
 
 #### Screenshots/Demo Video
 
@@ -52,11 +55,9 @@ _import various libraries to run this application_
 
 
 #### Tracks used
-
-_You were given several tracks to choose from in the problem statement. Tell which one did you choose and how does your
-application follow that track._
+_
 *We've used Amazon track
-What if we build an overall food traceability system that connect the suppliers, producers, sellers and consumers to increase confidence in food security level and leverage emerging technologies to reduce manual intervention, drive automation, scale readiness and establish trust in buying organic foods thereby building sustainable agriculture ecosystem?
+*What if we build an overall food traceability system that connect the suppliers, producers, sellers and consumers to increase confidence in food security level and leverage emerging technologies to reduce manual intervention, drive automation, scale readiness and establish trust in buying organic foods thereby building sustainable agriculture ecosystem?
 
 
 #### AWS Services Used
