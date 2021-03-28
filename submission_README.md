@@ -55,7 +55,9 @@ _import various libraries to run this application_
 
 _You were given several tracks to choose from in the problem statement. Tell which one did you choose and how does your
 application follow that track._
-We've used Amazon track
+*We've used Amazon track
+What if we build an overall food traceability system that connect the suppliers, producers, sellers and consumers to increase confidence in food security level and leverage emerging technologies to reduce manual intervention, drive automation, scale readiness and establish trust in buying organic foods thereby building sustainable agriculture ecosystem?
+
 
 #### AWS Services Used
 
