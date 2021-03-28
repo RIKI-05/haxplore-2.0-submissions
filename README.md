@@ -19,9 +19,9 @@ the online hackathon conducted by Codefest, the annual departmental fest of Comp
 _We built an overall food traceability system that allows customer to compare what the actual information is and what they are served with. It will allow the user to scan the QR on the food product and the user will be directed to a web page of that product where they will see the comparision between the real information and the information given to them . The real information will be kept in the database maintained by the trustworthy third party, and user will be able to compare and decide if the product is safe for consumption or not.
 In simple words the tagline "know what you eat" the customers will be able to see the authenticity of what they get._
 
-:yellow_circle: #### Technology used
+#### :yellow_circle: Technology used
 
-_Technologies used._
+_IDE USED :VSCODE_
 * :small_orange_diamond: Python( Opencv, pyzbar webbrowser libraries)
 * :small_orange_diamond: HTML
 * :small_orange_diamond: CSS
