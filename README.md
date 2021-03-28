@@ -3,14 +3,14 @@
 This is the official code repository for _TEAM NAME_ . This _type of application_ was developed during HaXplore 2.0, 
 the online hackathon conducted by Codefest, the annual departmental fest of Computer Science department, IIT BHU Varanasi.
 
-:yellow_circle: ### _Fire Phoenix_
+#### :yellow_circle: _Fire Phoenix_
 
 * :small_orange_diamond: Rishika Garg
 * :small_orange_diamond: Aanchal Rattan
 * :small_orange_diamond: Sonia Tyagi
 * :small_orange_diamond: Ayushi Gupta
 
-:yellow_circle: #### _Tech'n Food_
+### :yellow_circle: _Tech'n Food_
 
 :small_orange_diamond: youtube link: https://youtu.be/naL_sU9IESM
 
@@ -26,7 +26,7 @@ _Technologies used._
 * :small_orange_diamond: HTML
 * :small_orange_diamond: CSS
 
-:yellow_circle: #### Screenshots/Demo Video
+#### :yellow_circle: Screenshots/Demo Video
 
 _Images_
 
@@ -47,7 +47,7 @@ _Images_
 
 
 
-:yellow_circle: #### Usage
+#### :yellow_circle: Usage
 
 _import various libraries to run this application_
 * :small_orange_diamond: python
@@ -56,7 +56,7 @@ _import various libraries to run this application_
 * :small_orange_diamond: pip install pyzbar
 
 
-:yellow_circle: #### Tracks used
+#### :yellow_circle: Tracks used
 _
 * :small_orange_diamond: We've used Amazon track
 * :small_orange_diamond: What if we build an overall food traceability system that connect the suppliers, producers, sellers and consumers to increase confidence in food security level and leverage emerging technologies to reduce manual intervention, drive automation, scale readiness and establish trust in buying organic foods thereby building sustainable agriculture ecosystem?
@@ -65,5 +65,5 @@ _
 
 
 
-:small_orange_diamond: :small_orange_diamond: ## THANKYOU :small_orange_diamond::small_orange_diamond:
+## :small_orange_diamond: :small_orange_diamond: THANKYOU :small_orange_diamond::small_orange_diamond:
 
