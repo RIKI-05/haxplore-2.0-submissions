@@ -14,7 +14,7 @@ the online hackathon conducted by Codefest, the annual departmental fest of Comp
 
 :small_orange_diamond: youtube link: https://youtu.be/naL_sU9IESM
 
-:yellow_circle: #### Overview
+#### :yellow_circle: Overview
 
 _We built an overall food traceability system that allows customer to compare what the actual information is and what they are served with. It will allow the user to scan the QR on the food product and the user will be directed to a web page of that product where they will see the comparision between the real information and the information given to them . The real information will be kept in the database maintained by the trustworthy third party, and user will be able to compare and decide if the product is safe for consumption or not.
 In simple words the tagline "know what you eat" the customers will be able to see the authenticity of what they get._
@@ -42,7 +42,7 @@ _Images_
 * :small_orange_diamond: Product information page
 ![image](https://user-images.githubusercontent.com/62802231/112743942-6324a600-8fb9-11eb-9895-18103b76df0d.png)
 
-:yellow_circle: #### YOUTUBE LINK: https://youtu.be/naL_sU9IESM
+#### :yellow_circle: YOUTUBE LINK: https://youtu.be/naL_sU9IESM
 
 
 
