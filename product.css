@@ -1,0 +1,21 @@
+#card {
+    margin-top: 130px;
+    padding-top: 50px;
+    max-width: 800px;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.aboutpage {
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.6) 0%, rgba(255, 255, 255, 0.9) 100%), url("https://images.unsplash.com/photo-1531844251246-9a1bfaae09fc?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8Z3JvdXB8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60");
+    background-position: center;
+    background-size: cover;
+    max-height: 40px;
+}
+
+.report {
+    margin-top: 20px;
+    max-height: 6rem;
+}

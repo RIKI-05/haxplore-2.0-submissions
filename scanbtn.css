@@ -1,0 +1,32 @@
+body{
+    background: rgb(195,237,190);
+background: radial-gradient(circle, rgba(195,237,190,1) 0%, rgba(245,175,206,1) 100%);
+}
+.container{
+ padding-left: 40%;
+}
+.btn-scan {
+    background: #e94f4f;
+    text-align: center;
+    width: 149px;
+    height: 148px;
+    border-radius: 100%;
+    display: inline-block;
+    font-size: 35px;
+    line-height: 2.3;
+    vertical-align:middle;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    box-shadow: black;
+    border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 5px 8px rgb(54, 53, 53), 15px 15px 8px rgba(195,237,190,1);
+   
+  }
+  #button{
+      padding-left:30rem;
+      padding-top:14rem ;
+     
+  }
