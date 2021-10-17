@@ -1,7 +1,7 @@
 import cv2 
 from pyzbar import pyzbar
 import webbrowser
-
+#reading the barcodes
 def read_barcodes(frame):
     barcodes = pyzbar.decode(frame)
     for barcode in barcodes:
